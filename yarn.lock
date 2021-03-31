@@ -10917,9 +10917,9 @@ xtend@~3.0.0:
   integrity sha1-XM50B7r2Qsunvs2laBEcST9ZZlo=
 
 y18n@^3.2.0:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 y18n@^4.0.0:
   version "4.0.0"
@@ -10995,3 +10995,11 @@ ylru@^1.2.0:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/ylru/-/ylru-1.2.1.tgz#f576b63341547989c1de7ba288760923b27fe84f"
   integrity sha512-faQrqNMzcPCHGVC2aaOINk13K+aaBDUPjGWl0teOXywElLjyVAB6Oe2jj62jHYtwsU49jXhScYbvPENK+6zAvQ==
+
+zipkin@^0.19.1:
+  version "0.19.2"
+  resolved "https://registry.yarnpkg.com/zipkin/-/zipkin-0.19.2.tgz#bfc4d9a3dc175751434327c686d86530faa6ad8f"
+  integrity sha512-nUgb+FGuchirCsUK7IL/pQKwo1QVm7lSnDvjlql7jO1zSPodDqHhCnEs4gy+AXbotPy0niDmjcl/dhIzpFR3+Q==
+  dependencies:
+    base64-js "^1.1.2"
+    is-promise "^2.1.0"
