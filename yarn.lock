@@ -2942,9 +2942,9 @@ cacheable-request@^6.0.0:
     responselike "^1.0.2"
 
 cached-path-relative@^1.0.0, cached-path-relative@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/cached-path-relative/-/cached-path-relative-1.0.2.tgz#a13df4196d26776220cc3356eb147a52dba2c6db"
-  integrity sha512-5r2GqsoEb4qMTTN9J+WzXfjov+hjxT+j3u5K+kIVNIwAd99DLCJE9pBIMP1qVeybV6JiijL385Oz0DcYxfbOIg==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/cached-path-relative/-/cached-path-relative-1.1.0.tgz#865576dfef39c0d6a7defde794d078f5308e3ef3"
+  integrity sha512-WF0LihfemtesFcJgO7xfOoOcnWzY/QHR4qeDqV44jPU3HTI54+LnfXK3SA27AVVGCdZFgjjFFaqUA9Jx7dMJZA==
 
 call-me-maybe@^1.0.1:
   version "1.0.1"
@@ -10995,3 +10995,11 @@ ylru@^1.2.0:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/ylru/-/ylru-1.2.1.tgz#f576b63341547989c1de7ba288760923b27fe84f"
   integrity sha512-faQrqNMzcPCHGVC2aaOINk13K+aaBDUPjGWl0teOXywElLjyVAB6Oe2jj62jHYtwsU49jXhScYbvPENK+6zAvQ==
+
+zipkin@^0.19.1:
+  version "0.19.2"
+  resolved "https://registry.yarnpkg.com/zipkin/-/zipkin-0.19.2.tgz#bfc4d9a3dc175751434327c686d86530faa6ad8f"
+  integrity sha512-nUgb+FGuchirCsUK7IL/pQKwo1QVm7lSnDvjlql7jO1zSPodDqHhCnEs4gy+AXbotPy0niDmjcl/dhIzpFR3+Q==
+  dependencies:
+    base64-js "^1.1.2"
+    is-promise "^2.1.0"
