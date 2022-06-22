@@ -25,6 +25,6 @@
     "zipkin": "^0.19.1"
   },
   "devDependencies": {
-    "got": "^9.6.0"
+    "got": "^11.8.5"
   }
 }
