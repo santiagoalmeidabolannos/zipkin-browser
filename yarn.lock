@@ -9444,9 +9444,9 @@ shebang-regex@^1.0.0:
   integrity sha1-2kL0l0DAtC2yypcoVxyxkMmO/qM=
 
 shell-quote@^1.6.1:
-  version "1.7.2"
-  resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.2.tgz#67a7d02c76c9da24f99d20808fcaded0e0e04be2"
-  integrity sha512-mRz/m/JVscCrkMyPqHc/bczi3OQHkLTqXHEFu0zDhK/qfv3UcOA4SVmRCLmos4bhjr9ekVQubj/R7waKapmiQg==
+  version "1.7.3"
+  resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.3.tgz#aa40edac170445b9a431e17bb62c0b881b9c4123"
+  integrity sha512-Vpfqwm4EnqGdlsBFNmHhxhElJYrdfcxPThu+ryKS5J8L/fhAwLazFZtq+S+TWZ9ANj2piSQLGj6NQg+lKPmxrw==
 
 shimmer@^1.1.0, shimmer@^1.2.0:
   version "1.2.1"
@@ -10995,3 +10995,11 @@ ylru@^1.2.0:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/ylru/-/ylru-1.2.1.tgz#f576b63341547989c1de7ba288760923b27fe84f"
   integrity sha512-faQrqNMzcPCHGVC2aaOINk13K+aaBDUPjGWl0teOXywElLjyVAB6Oe2jj62jHYtwsU49jXhScYbvPENK+6zAvQ==
+
+zipkin@^0.19.1:
+  version "0.19.2"
+  resolved "https://registry.yarnpkg.com/zipkin/-/zipkin-0.19.2.tgz#bfc4d9a3dc175751434327c686d86530faa6ad8f"
+  integrity sha512-nUgb+FGuchirCsUK7IL/pQKwo1QVm7lSnDvjlql7jO1zSPodDqHhCnEs4gy+AXbotPy0niDmjcl/dhIzpFR3+Q==
+  dependencies:
+    base64-js "^1.1.2"
+    is-promise "^2.1.0"
